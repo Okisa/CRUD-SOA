@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "pac backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabela",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Okisa/CRUD\""
+  },
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "http-status-codes": "^1.1.6"
+  }
+}
